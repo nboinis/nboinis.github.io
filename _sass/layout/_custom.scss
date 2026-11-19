@@ -19,6 +19,9 @@ html[data-theme="dark"] {
   --nb-card-bg: #263238;
   --nb-card-border: #37474f;
   --nb-soft-bg: #1f2a30;
+  --global-link-color: #6dd3e8;
+  --global-link-color-visited: #6dd3e8;
+  --global-link-color-hover: #a5e6f2;
 }
 
 /* ---------- Hero banner (About page) ---------- */
@@ -29,7 +32,7 @@ html[data-theme="dark"] {
   padding: 2em 2em 1.6em;
   border-radius: 14px;
   color: #fff;
-  background: linear-gradient(135deg, #264653 0%, #2a6f73 55%, #2a9d8f 100%);
+  background: linear-gradient(135deg, #264653 0%, #245c62 55%, #21786f 100%);
   box-shadow: 0 6px 18px rgba(38, 70, 83, 0.25);
 }
 .hero::after {
@@ -211,4 +214,26 @@ ul.news-timeline li::before {
 }
 .list__item .archive__item:hover {
   border-left-color: var(--nb-teal);
+}
+
+/* ---------- Narrow screens: keep the "Follow" dropdown on top ---------- */
+/* Below the large breakpoint the sidebar sits above the content, and the
+   hero banner (position: relative) was painting over the dropdown.
+   z-index 15 keeps it under the fixed top bar (z-index 20). */
+@media (max-width: 57.8em) {
+  .sidebar {
+    position: relative;
+    z-index: 15;
+  }
+}
+
+/* ---------- Light mode: readable footer and Follow button ---------- */
+html:not([data-theme="dark"]) .page__footer,
+html:not([data-theme="dark"]) .page__footer a,
+html:not([data-theme="dark"]) .page__footer strong {
+  color: #55606a;
+}
+/* The theme sets the .btn--inverse colour with !important */
+html:not([data-theme="dark"]) .author__urls-wrapper .btn--inverse {
+  color: #55606a !important;
 }
