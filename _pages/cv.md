@@ -12,11 +12,11 @@ redirect_from:
 <p><a href="{{ base_path }}/files/Nikolaos_Boinis_CV.pdf"><i class="fas fa-file-pdf"></i> Download CV (PDF)</a></p>
 
 Research interests
-======
+------
 Ion mobility–HRMS; GC-APCI-HRMS and GC-EI-MS/MS; target, suspect and non-target screening; emerging contaminants; design of experiments; open data.
 
 Education
-======
+------
 * **PhD in Environmental Analytical Chemistry**, 2024 – present  
   Department of Chemistry, National and Kapodistrian University of Athens (NKUA)
 * **MSc in Analytical Chemistry – Quality Assurance**, 2022 – 2024  
@@ -29,7 +29,7 @@ Education
   Supervisors: Asst. Prof. Despoina Kalogianni (University of Patras) and Prof. Nikolaos S. Thomaidis (NKUA)
 
 Research experience
-======
+------
 * **PhD candidate & researcher**, October 2024 – present  
   TrAMS group, Laboratory of Analytical Chemistry, NKUA
   * Researcher on the European project [TerraChem](https://terrachem.eu/), mainly in Work Package 1: analysis of samples from European terrestrial ecosystems
@@ -47,13 +47,13 @@ Research experience
   * Contributed to several environmental analysis projects: sample pre-treatment, GC-HRMS, LC-HRMS and LC-TIMS-HRMS analysis, and data processing for high-quality quantitative results
 
 Other experience
-======
+------
 * **Digital Data Manager** (external collaborator), October 2018 – May 2019  
   sieve technologies, Lefkippos Technology Park / NCSR "Demokritos"
   * Management of digital content, and data analysis and recording for commercial purposes
 
 Research projects
-======
+------
 * **2024 – present:** *TerraChem*: wide-scope target and non-target analysis of organic contaminants in abiotic and biotic samples from European terrestrial ecosystems
 * **2024 – 2025:** Biomonitoring of biota samples from Germany, in collaboration with the State Institute for the Environment Baden-Württemberg (LUBW)
 * **2023 – 2024:** *Dnieper II*: wide-scope target and non-target analysis of organic contaminants in surface water, groundwater and sediments from the Dnieper River basin (Ukraine) after the Kakhovka dam breach
@@ -62,34 +62,34 @@ Research projects
 * **2021 – 2022:** *HELCOM pre-EMPT*, in collaboration with the Baltic Marine Environment Protection Commission (Helsinki Commission, HELCOM)
 
 Publications, reports & datasets
-======
+------
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Conference presentations
-======
+------
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
 Co-authored conference contributions
-======
+------
 * Konomi, A., **Boinis, N.**, Gkotsis, G., et al. "Occurrence and distribution of organic micropollutants in the barn owl food chain: a pan-European case study." *SETAC Europe 36th Annual Meeting*, Maastricht, 2026.
 * Gkotsis, G., Panagopoulou, E., Konomi, A., **Boinis, N.**, Mourtzoukou, F.A., et al. "An advanced analytical methodology for the simultaneous monitoring of more than 2,500 emerging pollutants in soils and biodiversity leveraging the technique LC-TIMS-HRMS." *SETAC Europe 35th Annual Meeting*, Vienna, 2025.
 * Movalli, P., Gkotsis, G., Aalizadeh, R., **Boinis, N.**, Konomi, A., Mourtzoukou, F.A., et al. "Monitoring chemicals exposure and mixture effects in terrestrial food chains in Europe." *SETAC Europe 35th Annual Meeting*, Vienna, 2025.
 * Movalli, P., Biesmeijer, K., Merckx, V., van Ommen Kloeke, E., Gkotsis, G., Aalizadeh, R., **Boinis, N.**, Konomi, A., Mourtzoukou, F.-A., Panagopoulou, E., Thomaidis, N.S., Alygizakis, N., Oswald, P., Oswaldova, M., Slobodnik, J., Gomes, S., Duke, G. "Generating spatially and temporally matched data at pan-European scale on chemicals exposure and species composition in soils and invertebrate communities to build species sensitivity distributions." Poster 2.10.P-We114, *SETAC Europe 35th Annual Meeting*, Vienna, 2025.
 
 Awards
-======
+------
 * **Best Poster Presentation Award (Chemical Engineering Journal)**, 18th International Conference on Environmental Science and Technology (CEST2023), Athens, Greece, 2023 ([announcement](https://trams.chem.uoa.gr/award-announcement-cest-2023/))
 
 Memberships
-======
+------
 * Member, Society of Environmental Toxicology and Chemistry (SETAC Europe), since 2023
 
 Technical skills
-======
+------
 * **Sample preparation:** freeze-drying (lyophilisation), accelerated solvent extraction (ASE), solid-phase extraction (SPE), liquid–liquid and solid–liquid extraction, ultrasound-assisted extraction, column chromatography, QuEChERS
 * **Separation:** liquid chromatography (LC), gas chromatography (GC)
 * **Ionisation:** ESI, VIP-HESI, APCI, EI
@@ -105,20 +105,20 @@ Technical skills
 * **Applications:** monitoring of priority and emerging pollutants, environmental analysis of organic pollutants, method development, optimisation and validation
 
 Software & programming
-======
+------
 * **Instrument & data software:** Bruker timsControl, Bruker Compass DataAnalysis, Bruker TASQ, HyStar, Chromeleon; mzmine
 * **Data analysis & programming:** Python (pandas), R, Minitab, Wolfram Mathematica, VBA, QBasic
 * Microsoft Office Suite
 
 Training & seminars
-======
+------
 * *Next-Level PFAS Screening and Identification Using Trapped Ion Mobility Spectrometry (TIMS) High-Resolution Mass Spectrometry (HRMS)*, e-seminar by Bruker and LCGC International, 12 September 2023
 
 Languages
-======
+------
 * Greek (native)
 * English (B2, Cambridge First Certificate in English)
 
 References
-======
+------
 Available on request.
