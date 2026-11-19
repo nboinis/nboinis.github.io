@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" role="img" aria-hidden="true">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2a9d8f"/><stop offset="1" stop-color="#264653"/></linearGradient></defs>
+<rect width="600" height="300" fill="url(#g)"/>
+<circle cx="560" cy="20" r="95" fill="none" stroke="#e9c46a" stroke-opacity=".22" stroke-width="18"/>
+<g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<text x="36" y="58" fill="#e9c46a" font-size="20" font-weight="700" letter-spacing="2">MSc THESIS · 2024</text>
+<text x="36" y="104" fill="#fff" font-size="38" font-weight="700">Dnieper River</text>
+<text x="36" y="140" fill="#fff" fill-opacity=".85" font-size="24">NKUA</text>
+</g>
+<g transform="translate(420,120)"><path d="M70 0 L140 30 L70 60 L0 30Z" fill="#fff"/><path d="M30 46 v34 q40 24 80 0 v-34 L70 62Z" fill="#fff" fill-opacity=".8"/><line x1="128" y1="34" x2="128" y2="84" stroke="#e9c46a" stroke-width="5"/><circle cx="128" cy="88" r="7" fill="#e9c46a"/></g>
+
+</svg>
