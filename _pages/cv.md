@@ -73,6 +73,7 @@ Co-authored conference contributions
 * Konomi, A., **Boinis, N.**, Gkotsis, G., et al. "Occurrence and distribution of organic micropollutants in the barn owl food chain: a pan-European case study." *SETAC Europe 36th Annual Meeting*, Maastricht, 2026.
 * Gkotsis, G., Panagopoulou, E., Konomi, A., **Boinis, N.**, Mourtzoukou, F.A., et al. "An advanced analytical methodology for the simultaneous monitoring of more than 2,500 emerging pollutants in soils and biodiversity leveraging the technique LC-TIMS-HRMS." *SETAC Europe 35th Annual Meeting*, Vienna, 2025.
 * Movalli, P., Gkotsis, G., Aalizadeh, R., **Boinis, N.**, Konomi, A., Mourtzoukou, F.A., et al. "Monitoring chemicals exposure and mixture effects in terrestrial food chains in Europe." *SETAC Europe 35th Annual Meeting*, Vienna, 2025.
+* Movalli, P., Biesmeijer, K., Merckx, V., van Ommen Kloeke, E., Gkotsis, G., Aalizadeh, R., **Boinis, N.**, Konomi, A., Mourtzoukou, F.-A., Panagopoulou, E., Thomaidis, N.S., Alygizakis, N., Oswald, P., Oswaldova, M., Slobodnik, J., Gomes, S., Duke, G. "Generating spatially and temporally matched data at pan-European scale on chemicals exposure and species composition in soils and invertebrate communities to build species sensitivity distributions." Poster 2.10.P-We114, *SETAC Europe 35th Annual Meeting*, Vienna, 2025.
 
 Awards
 ======
@@ -80,7 +81,7 @@ Awards
 
 Memberships
 ======
-* Member, Society of Environmental Toxicology and Chemistry (SETAC Europe)
+* Member, Society of Environmental Toxicology and Chemistry (SETAC Europe), since 2023
 
 Technical skills
 ======
