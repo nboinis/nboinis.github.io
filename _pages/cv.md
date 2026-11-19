@@ -11,6 +11,10 @@ redirect_from:
 
 <p><a href="{{ base_path }}/files/Nikolaos_Boinis_CV.pdf"><i class="fas fa-file-pdf"></i> Download CV (PDF)</a></p>
 
+Research interests
+======
+Ion mobility–HRMS; GC-APCI-HRMS and GC-EI-MS/MS; target, suspect and non-target screening; emerging contaminants; design of experiments; open data.
+
 Education
 ======
 * **PhD in Environmental Analytical Chemistry**, 2024 – present  
@@ -32,6 +36,7 @@ Research experience
   * Development and application of sample preparation protocols for environmental samples
   * Chemical analysis using GC-HRMS, LC-HRMS and LC-TIMS-HRMS, with chemometric data processing
   * Quality control of results from low- and high-resolution mass spectrometry, with a particular focus on developing GC-HRMS methods
+  * Current projects (ongoing): Screening for the contaminants current methods miss; Systematic method development for ion mobility HRMS
 
 * **Researcher**, March 2024 – October 2024  
   TrAMS group, Laboratory of Analytical Chemistry, NKUA
@@ -89,12 +94,20 @@ Technical skills
 * **Separation:** liquid chromatography (LC), gas chromatography (GC)
 * **Ionisation:** ESI, VIP-HESI, APCI, EI
 * **Mass spectrometry:** high-resolution (HRMS) and low-resolution (LRMS) mass spectrometry, trapped ion mobility spectrometry (TIMS)
+* **Instruments:**
+  * Bruker timsMetabo (TIMS-QTOF) with GC-APCI
+  * Bruker timsTOF Pro 2 (TIMS-QTOF)
+  * Bruker 456-GC–maXis Impact QTOF with GC-APCI; maXis Impact with LC-ESI
+  * Bruker Elute UHPLC–maXis Impact II QTOF with VIP-HESI
+  * Bruker 456-GC–EVOQ GC-TQ Premium triple quadrupole (GC-MS/MS) with electron ionisation (EI)
+* **Acquisition modes:** TIMS-MS, bbCID, dda-PASEF, prm-PASEF
+* **Methods:** design of experiments (screening and response-surface designs, desirability optimisation), mass and mobility calibration, QA/QC
 * **Applications:** monitoring of priority and emerging pollutants, environmental analysis of organic pollutants, method development, optimisation and validation
 
 Software & programming
 ======
-* **Instrument & data software:** Bruker TASQ, Bruker Compass DataAnalysis, HyStar, Chromeleon
-* **Data analysis & programming:** Python, R, Minitab, Wolfram Mathematica, VBA, QBasic
+* **Instrument & data software:** Bruker timsControl, Bruker Compass DataAnalysis, Bruker TASQ, HyStar, Chromeleon; mzmine
+* **Data analysis & programming:** Python (pandas), R, Minitab, Wolfram Mathematica, VBA, QBasic
 * Microsoft Office Suite
 
 Training & seminars
