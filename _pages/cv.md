@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<p><a href="{{ base_path }}/files/Nikolaos_Boinis_CV.pdf"><i class="fas fa-file-pdf"></i> Download CV (PDF)</a></p>
+
 Education
 ======
 * **PhD in Environmental Analytical Chemistry**, 2024 – present  
@@ -75,6 +77,10 @@ Co-authored conference contributions
 Awards
 ======
 * **Best Poster Presentation Award**, 18th International Conference on Environmental Science and Technology (CEST2023), Athens, Greece, 2023
+
+Memberships
+======
+* Member, Society of Environmental Toxicology and Chemistry (SETAC Europe)
 
 Technical skills
 ======
