@@ -21,11 +21,14 @@ author_profile: true
       {% endif %}
       {% unless title_shown %}
         <h2>{{ category[1].title }}</h2><hr />
+        <div class="grid__wrapper">
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      {% include archive-single.html type="grid" %}
     {% endfor %}
+    {% if title_shown %}</div>{% endif %}
   {% endfor %}
+  <p class="grid__note">Graphical abstract of the 2026 article reproduced unmodified from Boinis et al. (2026), <i>Analytical and Bioanalytical Chemistry</i>, under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>. Other card images are illustrations made for this site.</p>
 {% else %}
   {% for post in site.publications reversed %}
     {% include archive-single.html %}

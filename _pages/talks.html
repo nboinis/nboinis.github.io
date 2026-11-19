@@ -11,9 +11,11 @@ author_profile: true
 
 {% endif %}
 
+<div class="grid__wrapper">
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  {% include archive-single-talk.html type="grid" %}
 {% endfor %}
+</div>
 
 <h2>Co-authored contributions</h2>
 <ul>
