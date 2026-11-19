@@ -54,7 +54,7 @@ Research projects
 * **2022 – 2023:** Biomonitoring of biota samples from Germany, in collaboration with LUBW
 * **2021 – 2022:** *HELCOM pre-EMPT*, in collaboration with the Baltic Marine Environment Protection Commission (Helsinki Commission, HELCOM)
 
-Publications
+Publications, reports & datasets
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -65,6 +65,12 @@ Conference presentations
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+
+Co-authored conference contributions
+======
+* Konomi, A., **Boinis, N.**, Gkotsis, G., et al. "Occurrence and distribution of organic micropollutants in the barn owl food chain: a pan-European case study." *SETAC Europe 36th Annual Meeting*, Maastricht, 2026.
+* Gkotsis, G., Panagopoulou, E., Konomi, A., **Boinis, N.**, Mourtzoukou, F.A., et al. "An advanced analytical methodology for the simultaneous monitoring of more than 2,500 emerging pollutants in soils and biodiversity leveraging the technique LC-TIMS-HRMS." *SETAC Europe 35th Annual Meeting*, Vienna, 2025.
+* Movalli, P., Gkotsis, G., Aalizadeh, R., **Boinis, N.**, Konomi, A., Mourtzoukou, F.A., et al. "Monitoring chemicals exposure and mixture effects in terrestrial food chains in Europe." *SETAC Europe 35th Annual Meeting*, Vienna, 2025.
 
 Awards
 ======
