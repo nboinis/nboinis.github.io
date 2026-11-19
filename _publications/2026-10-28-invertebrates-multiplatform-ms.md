@@ -7,6 +7,7 @@ excerpt: 'Open access. A multi-platform mass spectrometry approach for broad-sco
 date: 2026-10-28
 venue: 'Analytical and Bioanalytical Chemistry'
 paperurl: 'https://doi.org/10.1007/s00216-026-06882-8'
+bibtexurl: '/files/boinis2026invertebrates.bib'
 citation: '<b>Boinis, N.</b>, Dragazis, N., Panagopoulou, E.I., Gkotsis, G., Thomaidis, N.S. (2026). &quot;Development of a multi-platform MS approach for the determination of organic micropollutants in terrestrial invertebrates.&quot; <i>Analytical and Bioanalytical Chemistry</i>.'
 ---
 
