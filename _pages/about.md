@@ -21,13 +21,18 @@ Research interests
 * Biomonitoring of contaminants in terrestrial and aquatic food chains
 * Method development, optimisation and validation
 
-Highlights
+In plain words
 ------
-* **2026:** Published a multi-platform MS approach for determining organic micropollutants in terrestrial invertebrates in *Analytical and Bioanalytical Chemistry* (open access).
-* **2026:** Presented two posters at the SETAC Europe 36th Annual Meeting in Maastricht.
-* **2025:** Published a validated sample preparation method for broad-scope analysis of organic micropollutants in soil by GC-APCI-QToF MS in *Analytical and Bioanalytical Chemistry*.
-* **2024:** Published a critical review on extraction techniques for organic micropollutants in vertebrate liver tissue in *Analytical and Bioanalytical Chemistry*.
-* **2023:** Best Poster Presentation Award at the 18th International Conference on Environmental Science and Technology (CEST2023), Athens.
+Every day, thousands of human-made chemicals, such as pesticides, medicines, industrial compounds and PFAS ("forever chemicals"), find their way into soils, rivers and the animals that live there. Most of them are never routinely measured. I develop methods that can search for thousands of these chemicals at once in a single sample, from a handful of soil to an earthworm or the liver of a wild predator. By following which chemicals build up as they move through food chains, this work helps scientists and regulators spot emerging threats to wildlife and ecosystems early.
+
+News
+------
+* **Oct 2026:** New paper in *Analytical and Bioanalytical Chemistry*: a [multi-platform MS approach for organic micropollutants in terrestrial invertebrates](/publication/2026-invertebrates-multiplatform-ms) (open access).
+* **May 2026:** Presented two posters at the SETAC Europe 36th Annual Meeting in Maastricht, on [terrestrial food chains](/talks/2026-setac-maastricht-food-chains) and a [soil sample preparation method](/talks/2026-setac-maastricht-soil).
+* **Oct 2025:** New paper in *Analytical and Bioanalytical Chemistry*: a [validated sample preparation method for organic micropollutants in soil by GC-APCI-QToF MS](/publication/2025-soil-gc-apci-qtof).
+* **Nov 2024:** Critical review on [extraction techniques for organic micropollutants in vertebrate liver tissue](/publication/2024-liver-extraction-review) published in *Analytical and Bioanalytical Chemistry*.
+* **Oct 2024:** Started my PhD in Environmental Analytical Chemistry at NKUA, within the European project TerraChem.
+* **Aug 2023:** Best Poster Presentation Award at CEST2023, Athens, for my [poster on terrestrial mesocarnivores](/talks/2023-cest2023-mesocarnivores).
 
 Contact
 ------
