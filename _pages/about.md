@@ -7,19 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in **Environmental Analytical Chemistry** at the Laboratory of Analytical Chemistry, Department of Chemistry, National and Kapodistrian University of Athens (NKUA), and a member of the [Trace Analysis and Mass Spectrometry (TrAMS) group](https://trams.chem.uoa.gr/) led by Prof. Nikolaos S. Thomaidis.
+I am a PhD candidate in **Environmental Analytical Chemistry** at the Laboratory of Analytical Chemistry, Department of Chemistry, National and Kapodistrian University of Athens (NKUA), and a member of the [Trace Analysis and Mass Spectrometry (TrAMS) group](https://trams.chem.uoa.gr/) led by Prof. Nikolaos S. Thomaidis. I develop gas chromatography–ion mobility–high-resolution mass spectrometry methods and use GC- and LC-based mass spectrometry for the screening of persistent and emerging organic contaminants. My current work focuses on trapped ion mobility, reference libraries for target and suspect screening, cutting-edge workflows for contaminants that current methods miss, and systematic method optimisation by design of experiments.
 
-My research focuses on tracing organic micropollutants through the environment, from soils and surface waters to the wildlife that lives in them. I develop and validate sample preparation methods and apply **wide-scope target and non-target screening** with high-resolution mass spectrometry (GC-HRMS, LC-HRMS and LC-TIMS-HRMS), combined with chemometric data processing.
-
-I currently work on the European project [TerraChem](https://terrachem.eu/), analysing samples from European terrestrial ecosystems (Work Package 1), with a particular focus on developing GC-HRMS methods.
+I also contribute to the European project [TerraChem](https://terrachem.eu/) (Work Package 1), analysing samples from European terrestrial ecosystems.
 
 Research interests
 ------
-* Wide-scope target, suspect and non-target screening of organic contaminants
-* Sample preparation for complex matrices (soil, terrestrial invertebrates, biota, liver tissue, sediment)
-* GC-HRMS (including GC-APCI-QToF MS), LC-HRMS and trapped ion mobility spectrometry (TIMS)
-* Biomonitoring of contaminants in terrestrial and aquatic food chains
-* Method development, optimisation and validation
+* Ion mobility–high-resolution mass spectrometry (trapped ion mobility, collision cross section) in environmental analysis
+* Gas chromatography–mass spectrometry (GC-APCI-HRMS, GC-EI-MS/MS) for persistent and emerging organic contaminants
+* Target, suspect and non-target screening, and curated reference libraries shared as open data
+* Emerging contaminants that escape current monitoring methods
+* Design of experiments and chemometrics for mass spectrometry method development
+* Data quality in HRMS: mass and mobility calibration, QA/QC
+* Open-source data processing (mzmine, Python) and FAIR data
 
 In plain words
 ------
