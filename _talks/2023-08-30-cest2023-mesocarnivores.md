@@ -6,6 +6,8 @@ permalink: /talks/2023-cest2023-mesocarnivores
 venue: "18th International Conference on Environmental Science and Technology (CEST2023)"
 date: 2023-08-30
 location: "Athens, Greece"
+header:
+  teaser: "talks/cest2023.svg"
 ---
 
 **🏆 Best Poster Presentation Award (Chemical Engineering Journal)**. [Award announcement by the TrAMS group](https://trams.chem.uoa.gr/award-announcement-cest-2023/)

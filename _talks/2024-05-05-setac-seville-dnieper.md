@@ -6,6 +6,8 @@ permalink: /talks/2024-setac-seville-dnieper
 venue: "SETAC Europe 34th Annual Meeting"
 date: 2024-05-05
 location: "Seville, Spain"
+header:
+  teaser: "talks/setac2024-seville.svg"
 ---
 
 Poster 3.04.P-Th199

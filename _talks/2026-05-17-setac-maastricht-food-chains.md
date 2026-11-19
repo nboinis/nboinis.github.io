@@ -6,6 +6,8 @@ permalink: /talks/2026-setac-maastricht-food-chains
 venue: "SETAC Europe 36th Annual Meeting"
 date: 2026-05-17
 location: "Maastricht, The Netherlands"
+header:
+  teaser: "talks/setac2026-food-chains.svg"
 ---
 
 Poster 2.12.P-Tu140
