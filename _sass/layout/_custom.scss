@@ -1,0 +1,201 @@
+/* ==========================================================================
+   Custom styling for nboinis.github.io
+   Palette: deep teal #264653, teal #2a9d8f, gold #e9c46a
+   ========================================================================== */
+
+:root {
+  --nb-teal-dark: #264653;
+  --nb-teal: #2a9d8f;
+  --nb-gold: #e9c46a;
+  --nb-card-bg: #ffffff;
+  --nb-card-border: #e3e8ea;
+  --nb-soft-bg: #f4f8f8;
+  --global-base-color: #264653;
+  --global-link-color: #1f7a70;
+  --global-link-color-hover: #264653;
+}
+
+html[data-theme="dark"] {
+  --nb-card-bg: #263238;
+  --nb-card-border: #37474f;
+  --nb-soft-bg: #1f2a30;
+}
+
+/* ---------- Hero banner (About page) ---------- */
+.hero {
+  position: relative;
+  overflow: hidden;
+  margin: 0 0 2em;
+  padding: 2em 2em 1.6em;
+  border-radius: 14px;
+  color: #fff;
+  background: linear-gradient(135deg, #264653 0%, #2a6f73 55%, #2a9d8f 100%);
+  box-shadow: 0 6px 18px rgba(38, 70, 83, 0.25);
+}
+.hero::after {
+  /* subtle decorative rings */
+  content: "";
+  position: absolute;
+  right: -60px;
+  top: -60px;
+  width: 260px;
+  height: 260px;
+  border-radius: 50%;
+  border: 28px solid rgba(233, 196, 106, 0.18);
+  pointer-events: none;
+}
+.hero__kicker {
+  margin: 0 0 0.4em;
+  font-size: 0.8em;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--nb-gold);
+  font-weight: 700;
+}
+.hero p.hero__title {
+  margin: 0 0 0.6em;
+  font-size: 1.55em;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #fff;
+  border: 0 !important;
+}
+.hero__chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  margin: 0 0 1.1em;
+  padding: 0;
+  list-style: none;
+}
+.hero__chips li {
+  margin: 0;
+  padding: 0.25em 0.75em;
+  font-size: 0.75em;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.14);
+  border: 1px solid rgba(255, 255, 255, 0.28);
+}
+.hero__buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6em;
+}
+.hero__buttons a {
+  display: inline-block;
+  padding: 0.45em 1.1em;
+  font-size: 0.8em;
+  font-weight: 700;
+  border-radius: 8px;
+  text-decoration: none !important;
+  color: #264653 !important;
+  background: var(--nb-gold);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.hero__buttons a.ghost {
+  color: #fff !important;
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.6);
+}
+.hero__buttons a:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* ---------- Section headings in page content ---------- */
+.page__content h2 {
+  position: relative;
+  padding-left: 0.7em;
+  border-bottom: 0;
+}
+.page__content h2::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.15em;
+  bottom: 0.15em;
+  width: 5px;
+  border-radius: 3px;
+  background: linear-gradient(180deg, var(--nb-teal), var(--nb-gold));
+}
+
+/* ---------- News timeline (About page) ---------- */
+.news-timeline + ul,
+ul.news-timeline {
+  list-style: none;
+  margin-left: 0.4em;
+  padding-left: 1.2em;
+  border-left: 2px solid var(--nb-card-border);
+}
+.news-timeline + ul li,
+ul.news-timeline li {
+  position: relative;
+  margin-bottom: 0.9em;
+}
+.news-timeline + ul li::before,
+ul.news-timeline li::before {
+  content: "";
+  position: absolute;
+  left: -1.6em;
+  top: 0.45em;
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background: var(--nb-teal);
+  box-shadow: 0 0 0 3px var(--global-bg-color);
+}
+
+/* ---------- Research cards (grid) ---------- */
+.grid__wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 1.3em;
+  margin-top: 1em;
+}
+.grid__wrapper .grid__item {
+  float: none !important;
+  width: auto !important;
+  margin: 0 !important;
+  border: 1px solid var(--nb-card-border);
+  border-radius: 12px;
+  overflow: hidden;
+  background: var(--nb-card-bg);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.grid__wrapper .grid__item:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(38, 70, 83, 0.15);
+}
+.grid__wrapper .archive__item-teaser {
+  max-height: none !important;
+  margin: 0;
+}
+.grid__wrapper .archive__item-teaser img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0;
+}
+.grid__wrapper .archive__item-title {
+  margin: 0.8em 0 0.3em;
+  padding: 0 1rem;
+  font-size: 0.95em;
+  line-height: 1.3;
+}
+.grid__wrapper .archive__item-excerpt {
+  display: block !important;
+  margin: 0 0 1em;
+  padding: 0 1rem;
+  font-size: 0.75em;
+}
+.grid__wrapper .archive__item-excerpt p { margin: 0; }
+
+/* ---------- Talks list: small accent on cards ---------- */
+.list__item .archive__item {
+  padding: 0.2em 0 0.2em 0.9em;
+  border-left: 3px solid var(--nb-card-border);
+  transition: border-color 0.15s ease;
+}
+.list__item .archive__item:hover {
+  border-left-color: var(--nb-teal);
+}
