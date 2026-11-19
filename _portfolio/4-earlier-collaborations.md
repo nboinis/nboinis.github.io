@@ -2,6 +2,8 @@
 title: "Earlier collaborations: HELCOM and Hebrew University of Jerusalem"
 excerpt: "2021 – 2023 · Contaminant analysis for the Baltic Sea (HELCOM pre-EMPT) and for environmental samples from Israel (HUJI)."
 collection: portfolio
+header:
+  teaser: projects/collaborations.svg
 ---
 
 * **HELCOM pre-EMPT (2021 – 2022):** collaboration with the Baltic Marine Environment Protection Commission (Helsinki Commission, HELCOM).

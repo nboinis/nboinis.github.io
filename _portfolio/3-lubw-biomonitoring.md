@@ -2,6 +2,8 @@
 title: "Wildlife biomonitoring in Baden-Württemberg"
 excerpt: "2022 – 2023 and 2024 – 2025 · Organic micropollutants in biota from Germany, in collaboration with the State Institute for the Environment Baden-Württemberg (LUBW)."
 collection: portfolio
+header:
+  teaser: projects/wildlife.svg
 ---
 
 **Period:** 2022 – 2023 and 2024 – 2025  

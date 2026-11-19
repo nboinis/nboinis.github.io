@@ -2,6 +2,8 @@
 title: "TerraChem: organic contaminants in European terrestrial ecosystems"
 excerpt: "2024 – present · Wide-scope target and non-target analysis of organic contaminants in abiotic and biotic samples from terrestrial ecosystems across Europe."
 collection: portfolio
+header:
+  teaser: projects/terrachem.svg
 ---
 
 **Period:** 2024 – present  

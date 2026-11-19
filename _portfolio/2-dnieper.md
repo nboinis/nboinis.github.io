@@ -2,6 +2,8 @@
 title: "Dnieper II: contamination after the Kakhovka dam breach"
 excerpt: "2023 – 2024 · Wide-scope target and non-target analysis of surface water, groundwater and sediments from the Dnieper River basin, Ukraine."
 collection: portfolio
+header:
+  teaser: projects/river.svg
 ---
 
 **Period:** 2023 – 2024
