@@ -82,7 +82,7 @@ Co-authored conference contributions
 
 Awards
 ======
-* **Best Poster Presentation Award**, 18th International Conference on Environmental Science and Technology (CEST2023), Athens, Greece, 2023
+* **Best Poster Presentation Award (Chemical Engineering Journal)**, 18th International Conference on Environmental Science and Technology (CEST2023), Athens, Greece, 2023 ([announcement](https://trams.chem.uoa.gr/award-announcement-cest-2023/))
 
 Memberships
 ======
