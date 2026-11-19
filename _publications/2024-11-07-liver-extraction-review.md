@@ -7,6 +7,7 @@ excerpt: 'Critical review comparing ultrasound-assisted extraction, pressurised 
 date: 2024-11-07
 venue: 'Analytical and Bioanalytical Chemistry'
 paperurl: 'https://doi.org/10.1007/s00216-024-05628-8'
+bibtexurl: '/files/boinis2025liver.bib'
 citation: '<b>Boinis, N.</b>, Konomi, A., Gkotsis, G., Nika, M.-C., … Thomaidis, N.S. (2025). &quot;Trends in extraction techniques for the determination of organic micropollutants in liver tissues of vertebrates.&quot; <i>Analytical and Bioanalytical Chemistry</i>, 417, 535–553.'
 ---
 
