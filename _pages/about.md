@@ -7,6 +7,25 @@ redirect_from:
   - /about.html
 ---
 
+<div class="hero">
+  <p class="hero__kicker">PhD candidate · TrAMS group · University of Athens</p>
+  <p class="hero__title">Finding the chemicals that end up in soils, invertebrates and wildlife</p>
+  <ul class="hero__chips">
+    <li>Ion mobility HRMS</li>
+    <li>GC–HRMS</li>
+    <li>Suspect &amp; non-target screening</li>
+    <li>Emerging contaminants</li>
+    <li>Design of experiments</li>
+    <li>Open data</li>
+  </ul>
+  <div class="hero__buttons">
+    <a href="/files/Nikolaos_Boinis_CV.pdf">Download CV</a>
+    <a class="ghost" href="/publications/">Publications</a>
+    <a class="ghost" href="https://trams.chem.uoa.gr/nikolaos-boinis/">TrAMS profile</a>
+    <a class="ghost" href="mailto:nboinis@chem.uoa.gr">Email me</a>
+  </div>
+</div>
+
 I am a PhD candidate in **Environmental Analytical Chemistry** at the Laboratory of Analytical Chemistry, Department of Chemistry, National and Kapodistrian University of Athens (NKUA), and a member of the [Trace Analysis and Mass Spectrometry (TrAMS) group](https://trams.chem.uoa.gr/) led by Prof. Nikolaos S. Thomaidis. I develop gas chromatography–ion mobility–high-resolution mass spectrometry methods and use GC- and LC-based mass spectrometry for the screening of persistent and emerging organic contaminants. My current work focuses on trapped ion mobility, reference libraries for target and suspect screening, cutting-edge workflows for contaminants that current methods miss, and systematic method optimisation by design of experiments.
 
 I also contribute to the European project [TerraChem](https://terrachem.eu/) (Work Package 1), analysing samples from European terrestrial ecosystems.
@@ -33,6 +52,7 @@ News
 * **Nov 2024:** Critical review on [extraction techniques for organic micropollutants in vertebrate liver tissue](/publication/2024-liver-extraction-review) published in *Analytical and Bioanalytical Chemistry*.
 * **Oct 2024:** Started my PhD in Environmental Analytical Chemistry at NKUA, within the European project TerraChem.
 * **Aug 2023:** Best Poster Presentation Award (Chemical Engineering Journal) at CEST2023, Athens, for my [poster on terrestrial mesocarnivores](/talks/2023-cest2023-mesocarnivores) ([TrAMS announcement](https://trams.chem.uoa.gr/award-announcement-cest-2023/)).
+{: .news-timeline}
 
 Contact
 ------
