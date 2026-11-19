@@ -10,4 +10,4 @@ location: "Athens, Greece"
 
 **🏆 Best Poster Presentation Award**
 
-**Boinis N.**, Diamanti K.S., Panagopoulou E.I., Gkotsis G., Maragou N., Nika M.C., Vasilatos K., Höpker K., Schäfer H., Wieczorek M., Osteraurer R., Thomaidis N.S.
+**Boinis N.**, Diamanti K.S., Panagopoulou E.I., Gkotsis G., Maragou N., Nika M.C., Vasilatos K., Höpker K., Schäfer H., Wieczorek M., Osterauer R., Thomaidis N.S.
