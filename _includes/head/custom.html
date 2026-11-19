@@ -15,6 +15,39 @@
 
 {% if site.keywords %}<meta name="keywords" content="{{ site.keywords }}">{% endif %}
 
+{% if page.url == "/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Nikolaos Boinis",
+  "alternateName": "Nick Boinis",
+  "url": "https://nboinis.github.io/",
+  "image": "https://nboinis.github.io/images/profile.png",
+  "email": "mailto:nboinis@chem.uoa.gr",
+  "jobTitle": "PhD candidate in Environmental Analytical Chemistry",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Trace Analysis and Mass Spectrometry (TrAMS) group, National and Kapodistrian University of Athens",
+    "url": "https://trams.chem.uoa.gr/"
+  },
+  "alumniOf": [
+    {"@type": "CollegeOrUniversity", "name": "National and Kapodistrian University of Athens"},
+    {"@type": "CollegeOrUniversity", "name": "University of Patras"}
+  ],
+  "identifier": {"@type": "PropertyValue", "propertyID": "ORCID", "value": "0009-0008-6909-6270"},
+  "knowsAbout": ["ion mobility mass spectrometry", "high-resolution mass spectrometry", "gas chromatography-mass spectrometry", "non-target screening", "emerging contaminants", "environmental analytical chemistry", "design of experiments"],
+  "sameAs": [
+    "https://orcid.org/0009-0008-6909-6270",
+    "https://scholar.google.com/citations?user=UPhrzNcAAAAJ",
+    "https://www.researchgate.net/profile/Nikolaos-Boinis",
+    "https://www.linkedin.com/in/nick-boinis-6608aa174/",
+    "https://github.com/nboinis"
+  ]
+}
+</script>
+{% endif %}
+
 <!-- favicon: NB monogram -->
 <link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg"/>
 <meta name="theme-color" content="var(--global-bg-color)"/>
