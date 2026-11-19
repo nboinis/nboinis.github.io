@@ -23,7 +23,7 @@
 <meta name="description" content="{{ seo_description }}">
 
 {% comment %} ===== Social share image =====
-Priority: page.header.image > page.header.overlay_image > site.og_image > default /images/og-image.png.
+Priority: page.header.image > page.header.overlay_image > page.header.teaser (SVG teasers use the PNG copy built in images/og/) > site.og_image > default /images/og-image.png.
 Absolute URLs (containing "://") are used as-is; relative paths are resolved under /images/ and prepended
 with base_path so the result is always absolute.
 {% endcomment %}
@@ -39,6 +39,14 @@ with base_path so the result is always absolute.
     {% assign seo_image_abs = page.header.overlay_image %}
   {% else %}
     {% assign seo_image_abs = page.header.overlay_image | prepend: "/images/" | prepend: base_path %}
+  {% endif %}
+{% elsif page.header.teaser %}
+  {% if page.header.teaser contains "://" %}
+    {% assign seo_image_abs = page.header.teaser %}
+  {% elsif page.header.teaser contains ".svg" %}
+    {% assign seo_image_abs = page.header.teaser | replace: ".svg", ".png" | prepend: "/images/og/" | prepend: base_path %}
+  {% else %}
+    {% assign seo_image_abs = page.header.teaser | prepend: "/images/" | prepend: base_path %}
   {% endif %}
 {% elsif site.og_image %}
   {% assign seo_image_abs = site.og_image | prepend: "/images/" | prepend: base_path %}
