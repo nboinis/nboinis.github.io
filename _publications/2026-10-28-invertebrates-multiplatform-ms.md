@@ -12,4 +12,7 @@ citation: '<b>Boinis, N.</b>, Dragazis, N., Panagopoulou, E.I., Gkotsis, G., Tho
 
 Terrestrial invertebrates play key roles in ecosystems and accumulate organic micropollutants from agricultural, urban and industrial sources, yet existing biomonitoring methods usually target narrow, class-specific chemical spaces. This open-access paper presents a multi-platform mass spectrometry approach for the broad-scope determination of organic micropollutants in terrestrial invertebrates.
 
+![Graphical abstract: multi-platform MS approach for organic micropollutants in terrestrial invertebrates](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00216-026-06882-8/MediaObjects/216_2026_6882_Figa_HTML.png)
+*Graphical abstract from Boinis et al. (2026), Analytical and Bioanalytical Chemistry, [doi:10.1007/s00216-026-06882-8](https://doi.org/10.1007/s00216-026-06882-8). Reproduced unmodified under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).*
+
 DOI: [10.1007/s00216-026-06882-8](https://doi.org/10.1007/s00216-026-06882-8)
