@@ -24,7 +24,7 @@ repository               : "nboinis/nboinis.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Nikolaos Boinis"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate in Environmental Analytical Chemistry · TrAMS group"
@@ -32,6 +32,7 @@ author:
   employer         : "National and Kapodistrian University of Athens"
   uri              : # URL
   email            : "nboinis@chem.uoa.gr" 
+  trams            : "https://trams.chem.uoa.gr/nikolaos-boinis/"
 
   # Academic websites
   academia         : # URL
