@@ -7,6 +7,7 @@ excerpt: 'Comparison of modified QuEChERS, accelerated solvent extraction and ul
 date: 2025-10-25
 venue: 'Analytical and Bioanalytical Chemistry'
 paperurl: 'https://doi.org/10.1007/s00216-025-06187-2'
+bibtexurl: '/files/boinis2025soil.bib'
 citation: '<b>Boinis, N.</b>, Dragazis, N., Panagopoulou, E.I., Gkotsis, G., … Thomaidis, N.S. (2025). &quot;Development and evaluation of sample preparation methods for the determination of organic micropollutants in soil samples utilizing GC-APCI-QToF MS.&quot; <i>Analytical and Bioanalytical Chemistry</i>, 417, 6983–6997.'
 ---
 
