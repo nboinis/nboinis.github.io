@@ -8,6 +8,8 @@ date: 2023-08-30
 location: "Athens, Greece"
 ---
 
-**🏆 Best Poster Presentation Award**
+**🏆 Best Poster Presentation Award (Chemical Engineering Journal)**. [Award announcement by the TrAMS group](https://trams.chem.uoa.gr/award-announcement-cest-2023/)
 
 **Boinis N.**, Diamanti K.S., Panagopoulou E.I., Gkotsis G., Maragou N., Nika M.C., Vasilatos K., Höpker K., Schäfer H., Wieczorek M., Osterauer R., Thomaidis N.S.
+
+**Summary:** In collaboration with the State Institute for the Environment Baden-Württemberg (LUBW), we used high-resolution mass spectrometry to screen organic contaminants in carnivorous mammals of the terrestrial food chain, sampled in Germany. The results showed that these wild animals had been exposed to a wide range of human-made chemicals, including pharmaceuticals, plant protection products and PFAS.
