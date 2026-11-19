@@ -32,7 +32,7 @@ News
 * **Oct 2025:** New paper in *Analytical and Bioanalytical Chemistry*: a [validated sample preparation method for organic micropollutants in soil by GC-APCI-QToF MS](/publication/2025-soil-gc-apci-qtof).
 * **Nov 2024:** Critical review on [extraction techniques for organic micropollutants in vertebrate liver tissue](/publication/2024-liver-extraction-review) published in *Analytical and Bioanalytical Chemistry*.
 * **Oct 2024:** Started my PhD in Environmental Analytical Chemistry at NKUA, within the European project TerraChem.
-* **Aug 2023:** Best Poster Presentation Award at CEST2023, Athens, for my [poster on terrestrial mesocarnivores](/talks/2023-cest2023-mesocarnivores).
+* **Aug 2023:** Best Poster Presentation Award (Chemical Engineering Journal) at CEST2023, Athens, for my [poster on terrestrial mesocarnivores](/talks/2023-cest2023-mesocarnivores) ([TrAMS announcement](https://trams.chem.uoa.gr/award-announcement-cest-2023/)).
 
 Contact
 ------
