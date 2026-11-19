@@ -13,6 +13,7 @@ title                    : "Nikolaos Boinis"
 title_separator          : "-"
 name                     : &name "Nikolaos Boinis"
 description              : &description "Nikolaos Boinis – PhD candidate in Environmental Analytical Chemistry (TrAMS group, National and Kapodistrian University of Athens)"   # Update this with a general description of your site, this is the default if not overridden by a page
+keywords                 : "ion mobility, TIMS, CCS, high-resolution mass spectrometry, GC-APCI, GC-MS/MS, electron ionisation, LC-HRMS, emerging contaminants, persistent organic pollutants, target screening, suspect screening, non-target screening, design of experiments, chemometrics, mzmine, open data"
 url                      : https://nboinis.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
