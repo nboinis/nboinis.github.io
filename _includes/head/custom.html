@@ -13,6 +13,8 @@
  <link rel="preload" href="{{ base_path }}/assets/css/fontawesome.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="{{ base_path }}/assets/css/fontawesome.css"></noscript>
 
+{% if site.keywords %}<meta name="keywords" content="{{ site.keywords }}">{% endif %}
+
 <!-- favicon: NB monogram -->
 <link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg"/>
 <meta name="theme-color" content="var(--global-bg-color)"/>
