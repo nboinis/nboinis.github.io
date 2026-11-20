@@ -90,6 +90,10 @@ Co-authored conference contributions
 * Movalli, P., Gkotsis, G., Aalizadeh, R., **Boinis, N.**, Konomi, A., Mourtzoukou, F.A., et al. "Monitoring chemicals exposure and mixture effects in terrestrial food chains in Europe." *SETAC Europe 35th Annual Meeting*, Vienna, 2025.
 * Movalli, P., Biesmeijer, K., Merckx, V., van Ommen Kloeke, E., Gkotsis, G., Aalizadeh, R., **Boinis, N.**, Konomi, A., Mourtzoukou, F.-A., Panagopoulou, E., Thomaidis, N.S., Alygizakis, N., Oswald, P., Oswaldova, M., Slobodnik, J., Gomes, S., Duke, G. "Generating spatially and temporally matched data at pan-European scale on chemicals exposure and species composition in soils and invertebrate communities to build species sensitivity distributions." Poster 2.10.P-We114, *SETAC Europe 35th Annual Meeting*, Vienna, 2025.
 
+Acknowledged contributions
+------
+* Gridish, N., Suari, Y., Sade, T., et al. (2026). "Stratification controls vertical dynamics and distribution of organic contaminants in micro-estuaries." *ACS Environmental Au*, 6, 1108–1117. [doi:10.1021/acsenvironau.6c00213](https://doi.org/10.1021/acsenvironau.6c00213) — acknowledged for support with sample analysis, project management and dissemination of the project report
+
 Awards
 ------
 * **Best Poster Presentation Award (Chemical Engineering Journal)**, 18th International Conference on Environmental Science and Technology (CEST2023), Athens, Greece, 2023 ([announcement](https://trams.chem.uoa.gr/award-announcement-cest-2023/))
