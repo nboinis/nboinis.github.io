@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "In-depth investigation of organic micropollutant burden in the Dnieper River basin using HRMS-based workflows<br />SETAC Europe 34th Annual Meeting; Seville, Spain",
+    37.3886303,
+    -5.9953403
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Development and optimization of a sample preparation method for the determination of organic micropollutants in soil samples using GC-APCI-QToF MS<br />SETAC Europe 36th Annual Meeting; Maastricht, The Netherlands",
+    50.8512438,
+    5.6909768
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "The invisible threat: tracing organic micropollutants across diverse European terrestrial food chains using cutting-edge mass spectrometry<br />SETAC Europe 36th Annual Meeting; Maastricht, The Netherlands",
+    50.8512438,
+    5.6909768
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536923,
-    -118.2427676
+    "Unveiling the occurrence of organic micropollutants in different species of terrestrial mesocarnivores utilizing HRMS techniques<br />18th International Conference on Environmental Science and Technology (CEST2023); Athens, Greece",
+    37.9755648,
+    23.7348324
   ]
 ];
