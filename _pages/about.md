@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About me"
+og_title: "Nikolaos Boinis – Environmental Analytical Chemistry"
 author_profile: true
 redirect_from:
   - /about/
