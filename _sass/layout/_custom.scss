@@ -237,3 +237,10 @@ html:not([data-theme="dark"]) .page__footer strong {
 html:not([data-theme="dark"]) .author__urls-wrapper .btn--inverse {
   color: #55606a !important;
 }
+
+/* ---------- Narrow screens: larger profile photo ---------- */
+@media (max-width: 57.8em) {
+  .author__avatar {
+    width: 64px;
+  }
+}
