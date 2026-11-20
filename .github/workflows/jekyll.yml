@@ -74,3 +74,18 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+
+  # Tell Bing (and other IndexNow search engines) that the site's pages changed
+  indexnow:
+    runs-on: ubuntu-latest
+    needs: deploy
+    continue-on-error: true
+    steps:
+      - name: Submit sitemap URLs to IndexNow
+        env:
+          KEY: aac45e912c78be988d4c5c86027656a8
+        run: |
+          sleep 60
+          curl -s https://nboinis.github.io/sitemap.xml | grep -o '<loc>[^<]*' | sed 's/<loc>//' > urls.txt
+          jq -R . urls.txt | jq -s --arg key "$KEY" '{host: "nboinis.github.io", key: $key, keyLocation: ("https://nboinis.github.io/" + $key + ".txt"), urlList: .}' > body.json
+          curl -s -o /dev/null -w "IndexNow response: %{http_code}\n" -X POST https://api.indexnow.org/indexnow -H "Content-Type: application/json; charset=utf-8" --data @body.json
