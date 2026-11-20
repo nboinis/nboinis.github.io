@@ -34,6 +34,7 @@ Research experience
 * **PhD candidate & researcher**, October 2024 – present  
   TrAMS group, Laboratory of Analytical Chemistry, NKUA
   * Researcher on the European project [TerraChem](https://terrachem.eu/), mainly in Work Package 1: analysis of samples from European terrestrial ecosystems
+  * Since September 2026 also in TerraChem's data management work package (WP4): preparation of HRMS measurement data for the NORMAN Database System and project deliverables
   * Development and application of sample preparation protocols for environmental samples
   * Chemical analysis using GC-HRMS, LC-HRMS and LC-TIMS-HRMS, with chemometric data processing
   * Quality control of results from low- and high-resolution mass spectrometry, with a particular focus on developing GC-HRMS methods
@@ -49,6 +50,14 @@ Research experience
 
 Other experience
 ------
+* **Organisation and promotion of a new MSc programme**, November 2025 – 2026  
+  Department of Chemistry, NKUA
+  * Contributed to organising and preparing the joint MSc programme "Environmental Sciences and Global Public Health", and to its promotion and visibility
+
+* **Science outreach**, 2025 – 2026  
+  Children's University of the Attica Region
+  * Co-wrote printed educational material for the 2025–2026 programme
+
 * **Digital Data Manager** (external collaborator), October 2018 – May 2019  
   sieve technologies, Lefkippos Technology Park / NCSR "Demokritos"
   * Management of digital content, and data analysis and recording for commercial purposes
