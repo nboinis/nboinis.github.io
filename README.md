@@ -19,6 +19,6 @@ Research: wide-scope target and non-target screening of organic micropollutants 
 | Talks & posters | one file each in `_talks/` |
 | Research projects | one file each in `_portfolio/` |
 | Sidebar (links, email) | `_config.yml` → `author:` |
-| Profile photo | `images/profile.png` |
+| Profile photo | `images/profile.jpg` |
 
 Built with the [Academic Pages](https://github.com/academicpages/academicpages.github.io) template (MIT licence) and published with GitHub Pages.
