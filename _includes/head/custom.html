@@ -42,9 +42,40 @@
     "https://trams.chem.uoa.gr/nikolaos-boinis/",
     "https://scholar.google.com/citations?user=UPhrzNcAAAAJ",
     "https://www.researchgate.net/profile/Nikolaos-Boinis",
-    "https://www.linkedin.com/in/nick-boinis-6608aa174/",
+    "https://www.linkedin.com/in/nikolaos-boinis/",
     "https://github.com/nboinis"
   ]
+}
+</script>
+{% endif %}
+
+{% if page.collection == "publications" and page.doi %}
+<!-- Citation metadata for Google Scholar and reference managers (paper pages only) -->
+<meta name="citation_title" content="{{ page.title | escape }}">
+{% for a in page.authors %}<meta name="citation_author" content="{{ a | escape }}">
+{% endfor %}<meta name="citation_publication_date" content="{{ page.date | date: '%Y/%m/%d' }}">
+<meta name="citation_journal_title" content="{{ page.venue | escape }}">
+{% if page.journal_volume %}<meta name="citation_volume" content="{{ page.journal_volume }}">{% endif %}
+{% if page.journal_issue %}<meta name="citation_issue" content="{{ page.journal_issue }}">{% endif %}
+{% if page.first_page %}<meta name="citation_firstpage" content="{{ page.first_page }}">{% endif %}
+{% if page.last_page %}<meta name="citation_lastpage" content="{{ page.last_page }}">{% endif %}
+<meta name="citation_doi" content="{{ page.doi }}">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "headline": {{ page.title | jsonify }},
+  "author": [{% for a in page.authors %}{% assign n = a | split: ", " %}
+    {"@type": "Person", "name": {{ n[1] | append: " " | append: n[0] | jsonify }}{% if n[0] == "Boinis" %}, "url": "https://nboinis.github.io/", "identifier": "https://orcid.org/0009-0008-6909-6270"{% endif %}}{% unless forloop.last %},{% endunless %}{% endfor %}
+  ],
+  "datePublished": "{{ page.date | date: '%Y-%m-%d' }}",
+  "isPartOf": {"@type": "Periodical", "name": {{ page.venue | jsonify }}},
+  {% if page.first_page %}"pagination": "{{ page.first_page }}-{{ page.last_page }}",
+  {% endif %}"identifier": {"@type": "PropertyValue", "propertyID": "DOI", "value": "{{ page.doi }}"},
+  "sameAs": "https://doi.org/{{ page.doi }}",
+  "url": "{{ site.url }}{{ page.url }}"{% if page.open_access %},
+  "isAccessibleForFree": true,
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"{% endif %}
 }
 </script>
 {% endif %}
