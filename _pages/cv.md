@@ -17,8 +17,9 @@ Ion mobility–HRMS; GC-APCI-HRMS and GC-EI-MS/MS; target, suspect and non-targe
 
 Education
 ------
-* **PhD in Environmental Analytical Chemistry**, 2024 – present  
-  Department of Chemistry, National and Kapodistrian University of Athens (NKUA)
+* **PhD in Environmental Analytical Chemistry**, October 2024 – present  
+  Department of Chemistry, National and Kapodistrian University of Athens (NKUA)  
+  Thesis: *Development of advanced analytical workflows for the holistic monitoring of organic micropollutants in the terrestrial ecosystem, leveraging high-resolution mass spectrometric techniques and data science approaches*. Supervisor: Prof. Nikolaos S. Thomaidis
 * **MSc in Analytical Chemistry – Quality Assurance**, 2022 – 2024  
   Department of Chemistry, NKUA  
   Thesis: *Assessment of the environmental burden on the Dnieper River ecosystem in Ukraine during the war, using high-resolution mass spectrometry techniques* (grade 10/10)  
@@ -117,7 +118,8 @@ Training & seminars
 Languages
 ------
 * Greek (native)
-* English (B2, Cambridge First Certificate in English)
+* English (fluent, spoken and written; Cambridge First Certificate in English)
+* German (elementary)
 
 References
 ------
