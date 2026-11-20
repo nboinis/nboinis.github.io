@@ -93,6 +93,7 @@ Co-authored conference contributions
 Acknowledged contributions
 ------
 * Gridish, N., Suari, Y., Sade, T., et al. (2026). "Stratification controls vertical dynamics and distribution of organic contaminants in micro-estuaries." *ACS Environmental Au*, 6, 1108–1117. [doi:10.1021/acsenvironau.6c00213](https://doi.org/10.1021/acsenvironau.6c00213) — acknowledged for support with sample analysis, project management and dissemination of the project report
+* Lougkovois, R., Parinos, C., Gkotsis, G., Nika, M.-C., Hatzianestis, I., Pavlidou, A., Thomaidis, N.S. (2026). "Occurrence, distribution and risk assessment of organic micropollutants in the Saronikos Gulf, Greece, utilizing LC-TIMS-HRMS." *Environmental Science: Advances*, 5, 416–434. [doi:10.1039/d5va00287g](https://doi.org/10.1039/d5va00287g)
 
 Awards
 ------
