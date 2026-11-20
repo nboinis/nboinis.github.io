@@ -45,6 +45,26 @@ In plain words
 ------
 Every day, thousands of human-made chemicals, such as pesticides, medicines, industrial compounds and PFAS ("forever chemicals"), find their way into soils, rivers and the animals that live there. Most of them are never routinely measured. I develop methods that can search for thousands of these chemicals at once in a single sample, from a handful of soil to an earthworm or the liver of a wild predator. By following which chemicals build up as they move through food chains, this work helps scientists and regulators spot emerging threats to wildlife and ecosystems early.
 
+Quick facts
+------
+**What does Nikolaos Boinis work on?**  
+Methods for finding persistent and emerging organic contaminants, such as pesticides, medicines, industrial compounds and PFAS, in soils, invertebrates and wildlife, using gas chromatography–ion mobility–high-resolution mass spectrometry and GC- and LC-based mass spectrometry.
+
+**Where?**  
+In the Trace Analysis and Mass Spectrometry (TrAMS) group, Laboratory of Analytical Chemistry, Department of Chemistry, National and Kapodistrian University of Athens, Greece, under the supervision of Prof. Nikolaos S. Thomaidis.
+
+**Which techniques?**  
+GC-APCI-HRMS, GC-EI-MS/MS, LC-HRMS and trapped ion mobility; target, suspect and non-target screening; design of experiments and chemometrics; data processing with mzmine and Python.
+
+**Which projects?**  
+The European project TerraChem (Work Package 1), analysing samples from European terrestrial ecosystems. Earlier work includes environmental monitoring with HELCOM (Baltic Sea), the EU/UNDP study of the Kakhovka dam breach, and wildlife biomonitoring with LUBW.
+
+**Publications?**  
+Three papers in *Analytical and Bioanalytical Chemistry* (2024–2026) on soil, terrestrial invertebrates and vertebrate liver tissue; see [Publications](/publications/).
+
+**Other names and identifiers**  
+Also known as Nick Boinis. ORCID [0009-0008-6909-6270](https://orcid.org/0009-0008-6909-6270); Scopus Author ID [59402858700](https://www.scopus.com/authid/detail.uri?authorId=59402858700).
+
 News
 ------
 * **Oct 2026:** New paper in *Analytical and Bioanalytical Chemistry*: a [multi-platform MS approach for organic micropollutants in terrestrial invertebrates](/publication/2026-invertebrates-multiplatform-ms) (open access).
