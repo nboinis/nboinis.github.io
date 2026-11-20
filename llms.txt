@@ -1,0 +1,33 @@
+# Nikolaos Boinis
+
+> PhD candidate in Environmental Analytical Chemistry at the National and Kapodistrian University of Athens (NKUA), Greece, and member of the Trace Analysis and Mass Spectrometry (TrAMS) group led by Prof. Nikolaos S. Thomaidis. Also known as Nick Boinis. He develops gas chromatography–ion mobility–high-resolution mass spectrometry methods and uses GC- and LC-based mass spectrometry to screen for persistent and emerging organic contaminants in soils, invertebrates and wildlife.
+
+Research focus: trapped ion mobility, reference libraries for target and suspect screening, workflows for contaminants that current methods miss, and systematic method optimisation by design of experiments. He contributes to the European project TerraChem (Work Package 1), analysing samples from European terrestrial ecosystems.
+
+## Profile
+
+- [About](https://nboinis.github.io/): research summary, plain-language overview and news
+- [CV](https://nboinis.github.io/cv/): education, experience and skills ([PDF](https://nboinis.github.io/files/Nikolaos_Boinis_CV.pdf))
+- [Research projects](https://nboinis.github.io/research/)
+- [Talks and posters](https://nboinis.github.io/talks/)
+
+## Publications
+
+- [Development of a multi-platform MS approach for the determination of organic micropollutants in terrestrial invertebrates](https://nboinis.github.io/publication/2026-invertebrates-multiplatform-ms): Analytical and Bioanalytical Chemistry (2026), open access, DOI 10.1007/s00216-026-06882-8
+- [Development and evaluation of sample preparation methods for the determination of organic micropollutants in soil samples utilizing GC-APCI-QToF MS](https://nboinis.github.io/publication/2025-soil-gc-apci-qtof): Analytical and Bioanalytical Chemistry 417, 6983–6997 (2025), open access, DOI 10.1007/s00216-025-06187-2
+- [Trends in extraction techniques for the determination of organic micropollutants in liver tissues of vertebrates](https://nboinis.github.io/publication/2024-liver-extraction-review): Analytical and Bioanalytical Chemistry 417, 535–553 (2025), DOI 10.1007/s00216-024-05628-8
+- [All publications, reports and theses](https://nboinis.github.io/publications/)
+
+## Identifiers and profiles
+
+- [ORCID 0009-0008-6909-6270](https://orcid.org/0009-0008-6909-6270)
+- [Google Scholar](https://scholar.google.com/citations?user=UPhrzNcAAAAJ)
+- [Scopus Author ID 59402858700](https://www.scopus.com/authid/detail.uri?authorId=59402858700)
+- [ResearchGate](https://www.researchgate.net/profile/Nikolaos-Boinis)
+- [LinkedIn](https://www.linkedin.com/in/nikolaos-boinis/)
+- [TrAMS group profile](https://trams.chem.uoa.gr/nikolaos-boinis/)
+- [GitHub](https://github.com/nboinis)
+
+## Contact
+
+- Email: nboinis@chem.uoa.gr
